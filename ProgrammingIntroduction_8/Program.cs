@@ -9,7 +9,7 @@ Console.WriteLine("Hello World!");
 // Debug.WriteLine("Hello World!");
 
 // variables and native operations
-// The comment changes were made by Nikshith krishnan Venkatesh.
+// The comment changes was made by Nikshith krishnan Venkatesh.
 int x;
 int y;
 
